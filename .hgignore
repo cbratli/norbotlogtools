@@ -1,0 +1,6 @@
+syntax:glob
+mqttLogger\SQLiteDatabaseBrowserPortable/*
+*.pyc
+*.swo
+*.swp
+*.autosave
